@@ -121,9 +121,19 @@ npx playwright test --project="Desktop Chrome"
 * Accessibility reports are saved in `logs/`
 * Screenshots of failures are saved in `test-results/`
 
+## CI/CD
+The project uses GitHub Actions for continuous integration. The workflow:
+
+* Runs all tests on push/PR to main branch
+* Generates and stores test reports
+* Runs tests in Ubuntu environment
+* Uses Node.js 18
+
+You can view test results in the GitHub Actions tab of the repository.
+
 ## Notes
 
-* In real life the test benchmarks would be discussed with other team members to understand better the business case and other requirements
+* In real life the test benchmarks would be discussed with other team members to understand better the business case and other requirements or restrictions
 * Tests are performed in an unauthenticated state as per requirements
 * Test cases were selected based on exploratory testing findings
 * Focus is on scalability and maintainability for a real working environment
