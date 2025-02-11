@@ -1,0 +1,549 @@
+FONT SIZE ACCESSIBILITY REPORT
+============================
+URL: https://epicbet.com/et/sport/
+Time: 2025-02-11T18:36:01.583Z
+
+ACCESSIBILITY REPORT SUMMARY
+==========================
+
+Minimum required font size: 13px
+Total elements checked: 1924
+Elements passing: 1335 (69.4%)
+Elements failing: 589 (30.6%)
+
+Top 5 CSS Classes with Small Font Sizes:
+-------------------------------------
+1. _1u8toxl8: 62 elements (3.2% of total)
+2. _1s5zkhee: 62 elements (3.2% of total)
+3. _1u8toxl0 _1u8toxl1: 53 elements (2.8% of total)
+4. qrs0x64: 40 elements (2.1% of total)
+5. qrs0x65: 38 elements (2.0% of total)
+
+DETAILED ANALYSIS BY CSS CLASS
+============================
+
+Class: _1u8toxl8
+Total Count: 62 elements (3.2% of total)
+========================================
+
+Font Size 10px: 53 elements (85.5% of class)
+Element types: SPAN
+Examples:
+  - <span>: "Sporting"
+  - <span>: "Viik"
+  - <span>: "Borussia Dortmund"
+
+Font Size 11px: 9 elements (14.5% of class)
+Element types: SPAN
+Examples:
+  - <span>: "Manchester City"
+  - <span>: "Viik"
+  - <span>: "Real Madrid"
+
+
+Class: _1s5zkhee
+Total Count: 62 elements (3.2% of total)
+========================================
+
+Font Size 13px: 62 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "2.01"
+  - <span>: "4.07"
+  - <span>: "3.49"
+
+
+Class: _1u8toxl0 _1u8toxl1
+Total Count: 53 elements (2.8% of total)
+========================================
+
+Font Size 10px: 53 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "Sporting"
+  - <span>: "Viik"
+  - <span>: "Borussia Dortmund"
+
+
+Class: qrs0x64
+Total Count: 40 elements (2.1% of total)
+========================================
+
+Font Size 12px: 40 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Manchester City"
+  - <div>: "Real Madrid"
+  - <div>: "Sporting"
+
+
+Class: qrs0x65
+Total Count: 38 elements (2.0% of total)
+========================================
+
+Font Size 13px: 38 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "Sporting"
+  - <span>: "Borussia Dortmund"
+  - <span>: "Juventus"
+
+
+Class: CybotCookiebotDialogDetailBodyContentCookieInfoCount CybotCookiebotDialogDetailBulkConsentCount
+Total Count: 35 elements (1.8% of total)
+========================================
+
+Font Size 12px: 35 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "2"
+  - <div>: "1"
+  - <div>: "1"
+
+
+Class: no-classes
+Total Count: 29 elements (1.5% of total)
+========================================
+
+Font Size 9px: 3 elements (10.3% of class)
+Element types: DIV, A
+Examples:
+  - <div>: "Nõustun Reeglite ja Tingimustega ja Privaatsuspoli..."
+  - <a>: "Reeglite ja Tingimustega"
+  - <a>: "Privaatsuspoliitikaga"
+
+Font Size 11px: 6 elements (20.7% of class)
+Element types: DIV
+Examples:
+  - <div>: "PANUSTAMA"
+  - <div>: "LOE ROHKEM"
+  - <div>: "TAHAN PAKKUMIST"
+
+Font Size 12px: 20 elements (69.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "+488"
+  - <span>: "+518"
+  - <span>: "+502"
+
+
+Class: je3f9y9 je3f9y7
+Total Count: 20 elements (1.0% of total)
+========================================
+
+Font Size 10px: 19 elements (95.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "22:00"
+  - <span>: "22:00"
+  - <span>: "19:00"
+
+Font Size 12px: 1 elements (5.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "22:00"
+
+
+Class: je3f9y8 je3f9y7
+Total Count: 20 elements (1.0% of total)
+========================================
+
+Font Size 10px: 20 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "täna"
+  - <span>: "täna"
+  - <span>: "täna"
+
+
+Class: _1fug2hn7
+Total Count: 19 elements (1.0% of total)
+========================================
+
+Font Size 8px: 19 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "8"
+  - <span>: "3"
+  - <span>: "3"
+
+
+Class: _1fug2hn3
+Total Count: 19 elements (1.0% of total)
+========================================
+
+Font Size 12px: 19 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "UEFA Meistrite Liiga"
+  - <span>: "Eesti Karikas"
+  - <span>: "Eesti-Läti Korvpalliliiga"
+
+
+Class: _1fug2hn4
+Total Count: 19 elements (1.0% of total)
+========================================
+
+Font Size 10px: 19 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "Euroopa"
+  - <span>: "Eesti"
+  - <span>: "Euroopa"
+
+
+Class: qrs0x60
+Total Count: 19 elements (1.0% of total)
+========================================
+
+Font Size 12px: 19 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "SportingBorussia Dortmund"
+  - <div>: "JuventusPSV"
+  - <div>: "VEF RigaRigas Zelli"
+
+
+Class: _1rwwvshc
+Total Count: 19 elements (1.0% of total)
+========================================
+
+Font Size 10px: 19 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "1x2"
+  - <span>: "1x2"
+  - <span>: "Money Line"
+
+
+Class: u42xro4
+Total Count: 19 elements (1.0% of total)
+========================================
+
+Font Size 10px: 19 elements (100.0% of class)
+Element types: A
+Examples:
+  - <a>: "UEFA Meistrite Liiga"
+  - <a>: "UEFA Meistrite Liiga"
+  - <a>: "Eesti-Läti Korvpalliliiga"
+
+
+Class: _1ar9pof3 _1ar9pof0
+Total Count: 19 elements (1.0% of total)
+========================================
+
+Font Size 12px: 19 elements (100.0% of class)
+Element types: BUTTON
+Examples:
+  - <button>: "+518"
+  - <button>: "+502"
+  - <button>: "+14"
+
+
+Class: _1ww5wy8i _1ww5wy8e
+Total Count: 13 elements (0.7% of total)
+========================================
+
+Font Size 11px: 13 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Kodu"
+  - <div>: "LIVE"
+  - <div>: "Jalgpall"
+
+
+Class: _1ww5wy8h _1ww5wy8e
+Total Count: 12 elements (0.6% of total)
+========================================
+
+Font Size 10px: 12 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Kõik"
+  - <div>: "Jalgpall"
+  - <div>: "Korvpall"
+
+
+Class: _1u8toxl0 _1u8toxl6
+Total Count: 9 elements (0.5% of total)
+========================================
+
+Font Size 11px: 9 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "Manchester City"
+  - <span>: "Viik"
+  - <span>: "Real Madrid"
+
+
+Class: CybotCookiebotDialogDetailBulkConsentCount
+Total Count: 6 elements (0.3% of total)
+========================================
+
+Font Size 12px: 6 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "7"
+  - <span>: "0"
+  - <span>: "2"
+
+
+Class: x1quqz9 x1quqz7
+Total Count: 6 elements (0.3% of total)
+========================================
+
+Font Size 12px: 6 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Vähemalt 50 € panus Meistrite liigale ei jäta sind..."
+  - <div>: "Ära muretse kombode kaotamise pärast. Me aitame si..."
+  - <div>: "Võta vastu kuni 200 € boonus ning me duubeldame se..."
+
+
+Class: fbhwoe0
+Total Count: 6 elements (0.3% of total)
+========================================
+
+Font Size 11px: 6 elements (100.0% of class)
+Element types: BUTTON
+Examples:
+  - <button>: "PANUSTAMA"
+  - <button>: "LOE ROHKEM"
+  - <button>: "TAHAN PAKKUMIST"
+
+
+Class: _1ar9pof6 no-default-appearance
+Total Count: 6 elements (0.3% of total)
+========================================
+
+Font Size 12px: 6 elements (100.0% of class)
+Element types: BUTTON
+Examples:
+  - <button>: "BB"
+  - <button>: "BB"
+  - <button>: "BB"
+
+
+Class: _10tumub1
+Total Count: 5 elements (0.3% of total)
+========================================
+
+Font Size 10px: 5 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Tulekul"
+  - <div>: "LIVE"
+  - <div>: "Järgnev"
+
+
+Class: _1rwwvshc _1rwwvsh0
+Total Count: 4 elements (0.2% of total)
+========================================
+
+Font Size 10px: 4 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "1x2"
+  - <span>: "Mängu Väravad Kokku"
+  - <span>: "Mõlemad Skoorivad"
+
+
+Class: _1u8toxl9 _1u8toxla
+Total Count: 4 elements (0.2% of total)
+========================================
+
+Font Size 11px: 4 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "3.5"
+  - <span>: "3.5"
+  - <span>: "-0.5"
+
+
+Class: _4dzf8qc
+Total Count: 3 elements (0.2% of total)
+========================================
+
+Font Size 12px: 3 elements (100.0% of class)
+Element types: BUTTON
+Examples:
+  - <button>: "50€"
+  - <button>: "150€"
+  - <button>: "250€"
+
+
+Class: _10tumub2
+Total Count: 3 elements (0.2% of total)
+========================================
+
+Font Size 12px: 3 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "1h"
+  - <div>: "6h"
+  - <div>: "24h"
+
+
+Class: _1duniiw4
+Total Count: 2 elements (0.1% of total)
+========================================
+
+Font Size 12px: 2 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Epic2 kampaania"
+  - <div>: "Epic2 kampaania"
+
+
+Class: _1duniiw5
+Total Count: 2 elements (0.1% of total)
+========================================
+
+Font Size 10px: 2 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Peagi saadaval!"
+  - <div>: "Peagi saadaval!"
+
+
+Class: _1duniiw6
+Total Count: 2 elements (0.1% of total)
+========================================
+
+Font Size 10px: 2 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Vaata tulevikuplaane"
+  - <div>: "Vaata tulevikuplaane"
+
+
+Class: _1duniiw7
+Total Count: 2 elements (0.1% of total)
+========================================
+
+Font Size 10px: 2 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Vaata tulevikuplaane"
+  - <div>: "Vaata tulevikuplaane"
+
+
+Class: iqwkss0
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 10px: 1 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "LIVE"
+
+
+Class: _4dzf8qa
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 12px: 1 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Sissemakse ja Mängi"
+
+
+Class: _304csj1 _304csjn no-select
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 12px: 1 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Sissemakse ja Mängi"
+
+
+Class: _304csjo _304csj3 _304csj7
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 12px: 1 elements (100.0% of class)
+Element types: BUTTON
+Examples:
+  - <button>: "Sissemakse ja Mängi"
+
+
+Class: _304csjt _304csjq
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 12px: 1 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Sissemakse ja Mängi"
+
+
+Class: _4dzf8qd _4dzf8qe
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 9px: 1 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Nõustun Reeglite ja Tingimustega ja Privaatsuspoli..."
+
+
+Class: _1nhrb4r0 _4dzf8qf
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 9px: 1 elements (100.0% of class)
+Element types: P
+Examples:
+  - <p>: "Nõustun Reeglite ja Tingimustega ja Privaatsuspoli..."
+
+
+Class: _90d63k3
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 12px: 1 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "Tugineb populaarsusele"
+
+
+Class: u42xro8 u42xro4
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 10px: 1 elements (100.0% of class)
+Element types: A
+Examples:
+  - <a>: "UEFA Meistrite Liiga"
+
+
+Class: _1ar9pof4 _1ar9pof0
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 12px: 1 elements (100.0% of class)
+Element types: BUTTON
+Examples:
+  - <button>: "+488"
+
+
+Class: qrs0x60 qrs0x61
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 12px: 1 elements (100.0% of class)
+Element types: DIV
+Examples:
+  - <div>: "Manchester CityReal Madrid"
+
+
+Class: _1b8aool9
+Total Count: 1 elements (0.1% of total)
+========================================
+
+Font Size 10px: 1 elements (100.0% of class)
+Element types: SPAN
+Examples:
+  - <span>: "Esimäng"
+

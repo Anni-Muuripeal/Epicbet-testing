@@ -1,0 +1,170 @@
+{
+  "config": {
+    "configFile": "C:\\Users\\Anni\\Desktop\\SISU technical assessment\\playwright.config.js",
+    "rootDir": "C:/Users/Anni/Desktop/SISU technical assessment",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "test-results.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 15000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "C:/Users/Anni/Desktop/SISU technical assessment/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {},
+        "id": "",
+        "name": "",
+        "testDir": "C:/Users/Anni/Desktop/SISU technical assessment",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 10000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.50.1",
+    "workers": 2,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "tests\\mobile-dropdown.spec.js",
+      "file": "tests/mobile-dropdown.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Mobile dropdown menu tests",
+          "file": "tests/mobile-dropdown.spec.js",
+          "line": 6,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Market types menu should stay fixed while scrolling",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 10000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "failed",
+                      "duration": 7213,
+                      "error": {
+                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32mfalse\u001b[39m\nReceived: \u001b[31mtrue\u001b[39m",
+                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32mfalse\u001b[39m\nReceived: \u001b[31mtrue\u001b[39m\n    at C:\\Users\\Anni\\Desktop\\SISU technical assessment\\tests\\mobile-dropdown.spec.js:36:27",
+                        "matcherResult": {
+                          "actual": true,
+                          "expected": false,
+                          "message": "\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32mfalse\u001b[39m\nReceived: \u001b[31mtrue\u001b[39m",
+                          "name": "toBe",
+                          "pass": false
+                        },
+                        "location": {
+                          "file": "C:\\Users\\Anni\\Desktop\\SISU technical assessment\\tests\\mobile-dropdown.spec.js",
+                          "column": 27,
+                          "line": 36
+                        },
+                        "snippet": "\u001b[0m \u001b[90m 34 |\u001b[39m         console\u001b[33m.\u001b[39mlog(\u001b[32m`Menu visibility status: ${isVisible ? 'Still visible' : 'Hidden as expected'}`\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 35 |\u001b[39m         \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 36 |\u001b[39m         expect(isVisible)\u001b[33m.\u001b[39mtoBe(\u001b[36mfalse\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 37 |\u001b[39m     })\u001b[33m;\u001b[39m\n \u001b[90m 38 |\u001b[39m })\u001b[33m;\u001b[39m\u001b[0m"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "C:\\Users\\Anni\\Desktop\\SISU technical assessment\\tests\\mobile-dropdown.spec.js",
+                            "column": 27,
+                            "line": 36
+                          },
+                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32mfalse\u001b[39m\nReceived: \u001b[31mtrue\u001b[39m\n\n\u001b[0m \u001b[90m 34 |\u001b[39m         console\u001b[33m.\u001b[39mlog(\u001b[32m`Menu visibility status: ${isVisible ? 'Still visible' : 'Hidden as expected'}`\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 35 |\u001b[39m         \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 36 |\u001b[39m         expect(isVisible)\u001b[33m.\u001b[39mtoBe(\u001b[36mfalse\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                           \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 37 |\u001b[39m     })\u001b[33m;\u001b[39m\n \u001b[90m 38 |\u001b[39m })\u001b[33m;\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\Anni\\Desktop\\SISU technical assessment\\tests\\mobile-dropdown.spec.js:36:27\u001b[22m"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "Setting up mobile viewport...\n"
+                        },
+                        {
+                          "text": "Testing sport: Football (ID: 1)\n"
+                        },
+                        {
+                          "text": "✓ Navigated to Football section\n"
+                        },
+                        {
+                          "text": "✓ Clicked match\n"
+                        },
+                        {
+                          "text": "✓ Opened market types\n"
+                        },
+                        {
+                          "text": "✓ Scrolled down two viewport heights\n"
+                        },
+                        {
+                          "text": "Menu visibility status: Still visible\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-02-07T19:26:40.064Z",
+                      "attachments": [],
+                      "errorLocation": {
+                        "file": "C:\\Users\\Anni\\Desktop\\SISU technical assessment\\tests\\mobile-dropdown.spec.js",
+                        "column": 27,
+                        "line": 36
+                      }
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "bdb5b9ee868e3563e5f8-47b925fd2b4f9e43a188",
+              "file": "tests/mobile-dropdown.spec.js",
+              "line": 15,
+              "column": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2025-02-07T19:26:38.634Z",
+    "duration": 8996.666000000001,
+    "expected": 0,
+    "skipped": 0,
+    "unexpected": 1,
+    "flaky": 0
+  }
+}
